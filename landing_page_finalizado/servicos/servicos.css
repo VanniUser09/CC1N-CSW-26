@@ -1,0 +1,187 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.destaque{
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+#banner {
+    background-color: #3A8DFF;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+}
+#home {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#curriculo {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#github {
+    display: inline-block;
+        background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#servicos {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#contato {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+
+#cabecalho .footer_links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+}
+
+.tabela-css4 {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 0.9em;
+    max-width: 850px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+}
+
+.tabela-css4 thead tr {
+    background-color: #0A2A66;
+    color: #ffffff;
+    text-align: center;
+}
+.tabela-css4 th,
+.tabela-css4 td {
+    padding: 12px 15px;
+}   
+
+.tabela-css4 tbody tr {
+    border-bottom: 1px solid #dddddd;
+}   
+.tabela-css4 tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.tabela-css4 tbody tr:last-of-type {
+    border-bottom: 2px solid #0A2A66;
+}
+
+.destaque {
+    font-size: 36px;
+    color: #333;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.sites {
+    font-family: 'Poppins', sans-serif;
+    max-width: 800px;
+    color: #333;
+    background-color: #f0f0f0;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.restaurante {
+    background: #3776ab;
+    max-width: 800px;
+    color: #0A2A66;
+    background-color: #DCEEFF;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.academia {
+    max-width: 800px;
+    color: #0A2A66;
+    background-color: #A9D6FF;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.cafeteria {
+    max-width: 800px;
+    color: #0A2A66;
+    background-color: #6CB8FF;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.livraria {
+    max-width: 800px;
+    color: #ffffff;
+    background-color: #3A8DFF;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.loja-virtual {
+    max-width: 800px;
+    color: #ffffff;
+    background-color: #1E5EFF;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.clínica {
+    max-width: 800px;
+    color: #ffffff;
+    background-color: #104dbe;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.escolinha-de-futebol {
+    color: #ffffff;
+    background-color: #123f92;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.escritório {
+    color: #ffffff;
+    background-color: #0A2A66;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
