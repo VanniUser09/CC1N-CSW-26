@@ -1,0 +1,115 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.destaque{
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#banner {
+    background-color: #3A8DFF;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+}
+#home {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#curriculo {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#github {
+    display: inline-block;
+        background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#servicos {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#contato {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+
+#cabecalho .footer_links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+}
+
+#meugit {
+
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+
+    font-family: 'Poppins', sans-serif;
+    max-width: 800px;
+    color: aliceblue;
+    background-image: url('../github/imagens_github/Imagem de fundo github.png');
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.foto2 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.git1 {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    
+}
+
+.git2 {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    
+}
+
+.botao-github {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+    text-decoration: none;
+    font-weight: 600;
+}
