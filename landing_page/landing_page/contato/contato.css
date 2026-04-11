@@ -1,0 +1,168 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.destaque{
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+#banner {
+    background-color: #3A8DFF;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+}
+#home {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#curriculo {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#github {
+    display: inline-block;
+        background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#servicos {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+#contato {
+    display: inline-block;
+    background: #104dbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+
+#cabecalho .footer_links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+}
+
+.formulario-css {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 0.95em;
+    max-width: 850px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+}
+
+
+.formulario-titulo {
+    max-width: 850px;
+    margin: 30px auto 10px;
+    font-family: 'Poppins', sans-serif;
+    color: #0A2A66;
+}
+
+
+.formulario-css tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+
+.formulario-css tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+
+.formulario-css tr:last-of-type {
+    border-bottom: 2px solid #0A2A66;
+}
+
+
+.formulario-css th {
+    background-color: #0A2A66;
+    color: #ffffff;
+    text-align: left;
+    padding: 12px 15px;
+    width: 200px;
+}
+
+
+.formulario-css td {
+    padding: 12px 15px;
+}
+
+/* Inputs gerais */
+.formulario-css input,
+.formulario-css select,
+.formulario-css textarea {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.2s;
+
+    box-sizing: border-box;
+}
+
+
+.formulario-css input:focus,
+.formulario-css select:focus,
+.formulario-css textarea:focus {
+    outline: none;
+    border-color: #0A2A66;
+    box-shadow: 0 0 5px rgba(10, 42, 102, 0.3);
+}
+
+
+.formulario-css input[type="checkbox"] {
+    width: auto;
+    margin-right: 5px;
+}
+
+
+.formulario-css button {
+    background-color: #0A2A66;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.formulario-css button:hover {
+    background-color: #08305c;
+}
+
+
+.destaque {
+    font-size: 36px;
+    color: #333;
+    margin-top: 50px;
+    text-align: center;
+}
